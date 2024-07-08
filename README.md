@@ -36,3 +36,7 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 #### Imagem externa
 
 ![Logo do PHP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTduIY3bKKAcaTvLXnZqUiq6qVpVq7q5OvLrNTP80dejIWXh1Hb0L0GdphIy8CiQtOBSQI&usqp=CAU)
+
+## Links interessantes
+
+[Google](https://www.google.com)
