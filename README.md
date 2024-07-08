@@ -46,3 +46,9 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 Contribuidor principal: https://github.com/AntonioGesseNasc
 
 [![Logo do PHP](https://files.tecnoblog.net/wp-content/uploads/2021/01/o_que_e_php_unsplash.jpg)](https://github.com/AntonioGesseNasc)
+
+```javascript
+function soma(a, b) {
+  return a + b;
+}
+```
