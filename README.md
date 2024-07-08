@@ -28,3 +28,7 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
    3. Css diferente para grupos de cliente
 2. Integração com outros pagamentos
 3. Sistema de bonus primeira compra
+
+#### Imagem local
+
+![Logo do Python](img/python.png)
