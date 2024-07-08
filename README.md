@@ -47,8 +47,17 @@ Contribuidor principal: https://github.com/AntonioGesseNasc
 
 [![Logo do PHP](https://files.tecnoblog.net/wp-content/uploads/2021/01/o_que_e_php_unsplash.jpg)](https://github.com/AntonioGesseNasc)
 
+## Código da função soma
+
 ```javascript
 function soma(a, b) {
   return a + b;
 }
 ```
+
+## Lista de tarefas a fazer:
+
+- [ x ] Área de membros
+- [ ] Integração com outros pagamentos
+- [ ] Sistema de bônus
+- [ x ] CSS do rodapé
